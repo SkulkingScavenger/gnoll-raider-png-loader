@@ -1,0 +1,9 @@
+*.suo
+*.user
+*.sdf
+*.ncb
+*.vcxproj*
+*.opensdf
+Debug/
+gnoll_raider/Debug
+Release/
