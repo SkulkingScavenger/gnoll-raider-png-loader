@@ -1,0 +1,1 @@
+spr_kikirak kikirak.png 1 0 0

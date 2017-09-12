@@ -2,8 +2,9 @@
 *.user
 *.sdf
 *.ncb
+*.ilk
+*.pdb
 *.vcxproj*
 *.opensdf
-Debug/
-gnoll_raider/Debug
+png_processor/Debug
 Release/
